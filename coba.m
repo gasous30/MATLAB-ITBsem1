@@ -1,0 +1,1 @@
+M = readtable('nilai_uas.csv');
